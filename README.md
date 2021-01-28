@@ -12,6 +12,7 @@ Installation
 
 ```
 bundle install
+BabyCarrot.Tools
 ```
 
 from this directory.
@@ -21,17 +22,20 @@ Usage
 
 Basic form:
 
-```c#
+```
+ c#
 .Net core Framework
 
 ```
 
 
-And a convenience form:
+And method form:
 
 ```준비중
-
-
+LogManager() : Daily Log || Monthly Log
+LogManager() : add prefix || postfix + yyyyMMdd .txt
+Write()
+WriteLine()
 
 ```
 
