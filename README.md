@@ -14,7 +14,9 @@ Installation
 bundle install
 BabyCarrot.Tools
 ```
-
+```
+GitHub:: https://github.com/choipureum/LogManager
+```
 from this directory.
 
 Usage
