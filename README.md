@@ -40,4 +40,13 @@ Write()
 WriteLine()
 
 ```
+사용형식 
+
+```c#
+ public LogManager(string path, LogType logType, string prefix, string postfix)
+ public LogManager(string prefix, string postfix)
+ public LogManager()
+            : this(Path.Combine(Application.Root, "Log"), LogType.Daily, null, null)
+ private void _SetLogPath(LogType logType, string prefix, string postfix)            
+```
 
