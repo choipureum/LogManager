@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0cpCAGCYkbaspAIQdvauPNCbDmf0X1LCjJYI0/JYeZ77Sq8X0z6IN7Wb3GfNCWW3cEHaaWa4jJ6z229nM+rP3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\wwwroot\\BabyCarrot\\BabyCarrot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
