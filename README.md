@@ -10,11 +10,11 @@ https://blue-boy.tistory.com/
 Installation
 -----------
 
-```
+```c#
 bundle install
 BabyCarrot.Tools
 ```
-```
+```c#
 GitHub:: https://github.com/choipureum/LogManager
 ```
 from this directory.
@@ -24,7 +24,7 @@ Usage
 
 Basic form:
 
-```
+```c#
  c#
 .Net core Framework
 
@@ -33,7 +33,7 @@ Basic form:
 
 And method form:
 
-```준비중
+```c#
 LogManager() : Daily Log || Monthly Log
 LogManager() : add prefix || postfix + yyyyMMdd .txt
 Write()
